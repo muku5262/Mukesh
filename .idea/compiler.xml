@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="examples" />
+        <module name="Guru99_Examples" />
+        <module name="webTesting" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="examples" target="1.5" />
+      <module name="Guru99_Examples" target="1.5" />
+      <module name="Mukesh" target="1.5" />
+      <module name="selenium_test" target="1.5" />
+      <module name="webTesting" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

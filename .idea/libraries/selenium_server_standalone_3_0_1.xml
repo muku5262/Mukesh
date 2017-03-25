@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="selenium-server-standalone-3.0.1">
+    <CLASSES>
+      <root url="jar://C:/tools/Selenium/selenium-server-standalone-3.0.1.jar!/" />
+      <root url="jar://C:/tools/Selenium/client-combined-3.1.0-nodeps.jar!/" />
+      <root url="jar://C:/tools/junit-4.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
